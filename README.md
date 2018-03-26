@@ -4,10 +4,13 @@ In this repository, new VGAM families for various angular density families are i
 
 Bivariate_Dirichlet_model.R
  - dirichlet2d.vgam : VGAM family function for the bivariate Dirichlet angular density.
+ 
 Bivariate_Husler-Reiss_model.R
  - hr2d.vgam : VGAM family function for the bivariate Hüsler—Reiss angular density.
+ 
 Bivariate_logistic_model.R
  - log2d.vgam : VGAM family function for the bivariate logistic angular density.
+ 
 Trivariate_Pairwise_Beta_model.R
  - pBeta3d.vgam : VGAM family function for the trivariate pairwise beta angular density.
 
